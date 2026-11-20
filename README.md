@@ -7,6 +7,16 @@ Dos prototipos Flutter equivalentes para un estudio comparativo de calidad de so
 
 Ambos implementan un gestor local de ingresos y gastos sin APIs externas.
 
+## Gráficos comparativos
+
+Abre `docs/graficos-comparativos.html` en un navegador para visualizar las barras agrupadas de:
+
+- tiempo por tarea;
+- archivos tocados;
+- cobertura LCOV.
+
+Los valores de ejemplo y la tabla fuente están en `docs/metricas_comparativas.csv`. Reemplázalos por las mediciones reales del experimento.
+
 ## Ejecutar
 
 ```bash

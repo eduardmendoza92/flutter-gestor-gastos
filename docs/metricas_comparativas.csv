@@ -1,0 +1,5 @@
+tarea,monolitica_tiempo_min,clean_tiempo_min,monolitica_archivos,clean_archivos,monolitica_cobertura_pct,clean_cobertura_pct
+Modificar regla existente,42,28,2,4,62,86
+Refactorización,35,22,3,5,58,84
+Nueva funcionalidad,55,39,3,6,64,88
+Corrección de defecto,48,31,2,4,60,90
